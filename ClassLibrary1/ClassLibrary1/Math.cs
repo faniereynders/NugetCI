@@ -11,7 +11,7 @@ namespace ClassLibrary1
         public int Sum(int nr1, int nr2)
         {
             //added this comment
-            return nr1 + nr2 + 1;
+            return nr1 + nr2;
         }
     }
 }
