@@ -19,5 +19,10 @@ namespace ClassLibrary1
             //added this comment
             return nr1 - nr2;
         }
+
+        public void DoesNothing()
+        {
+
+        }
     }
 }
