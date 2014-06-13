@@ -11,6 +11,6 @@
         <language>en-US</language>
     </metadata>
     <files>
-        <file src="bin\Debug\ClassLibrary1.dll" target="lib\ClassLibrary1.dll" />
+        <file src="bin\Release\ClassLibrary1.dll" target="lib\ClassLibrary1.dll" />
     </files>
 </package>
