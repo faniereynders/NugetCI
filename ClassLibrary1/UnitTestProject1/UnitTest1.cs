@@ -20,5 +20,19 @@ namespace UnitTestProject1
 
 
         }
+
+        [TestMethod]
+        public void Subtract_Test()
+        {
+            var m = new MathClass();
+
+            var expected = 4;
+
+            var actual = m.Subtract(10, 6);
+
+            Assert.AreEqual(expected, actual);
+
+
+        }
     }
 }
