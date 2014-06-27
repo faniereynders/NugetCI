@@ -25,6 +25,12 @@ namespace ClassLibrary1
             //added this comment
             return nr1 * nr2;
         }
+
+        public int Divide(int nr1, int nr2)
+        {
+            //added this comment
+            return nr1 * nr2;
+        }
     }
 }
 //testing
