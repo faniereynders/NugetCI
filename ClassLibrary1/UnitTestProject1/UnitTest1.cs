@@ -34,5 +34,19 @@ namespace UnitTestProject1
 
 
         }
+
+        [TestMethod]
+        public void Multiply_Test()
+        {
+            var m = new MathClass();
+
+            var expected = 4;
+
+            var actual = m.Multiply(2, 2);
+
+            Assert.AreEqual(expected, actual);
+
+
+        }
     }
 }
