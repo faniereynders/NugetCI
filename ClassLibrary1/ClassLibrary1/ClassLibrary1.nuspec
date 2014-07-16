@@ -5,7 +5,7 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">  
   <metadata>
     <id>faniereynders.demo</id>
-    <version>0.2</version>
+    <version>$version$</version>
     <authors>Kim Abercrombie, Franck Halmaert</authors>
     <description>Sample exists only to show a sample .nuspec file.</description>
     <language>en-US</language>
